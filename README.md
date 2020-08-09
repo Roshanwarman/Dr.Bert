@@ -1,1 +1,3 @@
-#HackAfrica
+# HackAfrica
+Idea:
+DFUSHSA
